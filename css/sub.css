@@ -1,0 +1,25 @@
+/* sub1-1 기업소개 */
+#sub1-1 #sub-title {
+  width: 100%;
+  position: relative;
+  height: 388px;
+}
+
+#sub1-1 #sub-header {
+  width: 1920px;
+  height: 388px;
+  background: #abc;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  outline: 1px solid blue;
+  background-image: url(../images/기업소개.jpg);
+}
+
+#sub1-1 #sub-header .container {
+  outline: 1px solid red;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
