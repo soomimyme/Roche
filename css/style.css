@@ -336,12 +336,12 @@ body {
 
 #responsibility h2 {
   margin-bottom: 20px;
-  text-shadow: 0 3px 5px #333;
+  text-shadow: 0 2px 3px #333;
 }
 
 #responsibility p {
   font-size: 22px;
-  text-shadow: 0 3px 5px #333;
+  text-shadow: 0 2px 3px #333;
   line-height: 38px;
   margin-bottom: 30px;
 }
