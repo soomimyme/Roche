@@ -335,13 +335,15 @@ body {
 }
 
 #responsibility h2 {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
+  text-shadow: 0 3px 5px #333;
 }
 
 #responsibility p {
   font-size: 22px;
+  text-shadow: 0 3px 5px #333;
   line-height: 38px;
-  margin-bottom: 55px;
+  margin-bottom: 30px;
 }
 
 /* 뉴스 및 빠른문의 */
@@ -430,7 +432,10 @@ body {
 }
 
 #contact form button#submit {
-  margin-top: 30px;
+  margin-top: 32px;
+  padding-top: 3px;
+  text-align: center;
+  width: 167px;
 }
 
 #main-footer {
