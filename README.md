@@ -3,7 +3,7 @@
 
 URL: https://soomimyme.github.io/Roche/
 
-- top menu 우측으로 정렬 및 정리
+- top menu 우측 정렬
 
 - GNB 깔끔하게 정리
 
