@@ -1,5 +1,6 @@
 # Roche (한국로슈)
 홈페이지 리뉴얼: 메인페이지 / 회사소개(수정중)
+
 URL: https://soomimyme.github.io/Roche/
 
 - top menu 우측으로 정렬 및 정리
@@ -37,7 +38,7 @@ URL: https://soomimyme.github.io/Roche/
 2. 빠른 문의: 이름 / 연락처 / 이메일 / 문의내용 / +보내기
 
 
-###footer
+### footer
 
 - 개인정보처리방침 / 법적고지
 
